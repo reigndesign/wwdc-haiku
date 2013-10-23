@@ -2,9 +2,9 @@ AsciiWWDC at http://asciiwwdc.com/ is a great resource for the full-text transcr
 
 Given a session number, this python script attempts to scan the transcript of a single session for possible haikus (that is, sentences with a 5-7-5 syllable pattern).
 
-Usage:
+## Usage:
 ````
-$ wwdc-haiku 228
+$ ./wwdc-haiku 228
 
 And what happens is 
 you choose that and you see a 
@@ -45,4 +45,52 @@ So, was that that was
 pretty fast, but I think we 
 hit everybody 
 ````
+````
+$ ./wwdc-haiku 310
+We're going to start 
+pretty basic and get a 
+little more complex 
+
+
+So, this is great if 
+you have many types of Push 
+Notifications 
+
+
+I'm going to show 
+you a little bit about 
+the technology 
+
+
+And you can know which 
+entrance the user is for 
+the guide to meet them 
+
+
+You can just use your 
+app as a museum guide 
+with this kind of stuff 
+
+
+Now, let me show you 
+how this actually works 
+on the real device 
+
+
+You can see the app 
+is smart enough to swap the 
+information page 
+
+
+And the app is still 
+ranging as long as you are 
+in the museum 
+
+
+So, go out there and 
+use them but use them wisely, 
+use them properly 
+
+````
+
 
