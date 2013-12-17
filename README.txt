@@ -2,7 +2,7 @@ AsciiWWDC at http://asciiwwdc.com/ is a great resource for the full-text transcr
 
 Given a session number, this python script attempts to scan the transcript of a single session for possible haikus (that is, sentences with a 5-7-5 syllable pattern).
 
-Usage:
+# Usage:
 ````
 $ wwdc-haiku 228
 
